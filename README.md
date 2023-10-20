@@ -11,7 +11,7 @@ Semantic segmentation of large-scale point clouds is the process to assign each 
 - misclassifications
 - generalization
 - upscaling
-- 
+
 <p align="center"><img src="https://github.com/3DOM-FBK/YTU3D/blob/master/images/YTU3D.png"></p>
 
 To address these challenges, we propose and offer the YTU3D dataset:
