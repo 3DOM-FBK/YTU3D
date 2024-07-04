@@ -23,7 +23,7 @@ To address these challenges, we propose and offer the YTU3D dataset:
 
 <p align="center"><img src="https://github.com/3DOM-FBK/YTU3D/blob/master/images/classes.png"></p>
 
-## Provided data - coming soon
+## Provided data - please contact us for receiving the point clouds
 
 <p align="center"><img src="https://github.com/3DOM-FBK/YTU3D/blob/master/images/MLMR.png"></p>
 
