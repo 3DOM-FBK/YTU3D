@@ -21,6 +21,8 @@ To address these challenges, we propose and offer the YTU3D dataset:
 - there are 45 classes to represent the complex structures of the urban area and increase 3D scene understanding
 - the entire point cloud is tiled in 43 regions of ca 210 x 210 sqm 
 
+Given the large quantity of data, the dataset is available upon request - 3dom@fbk.eu
+
 <p align="center"><img src="https://github.com/3DOM-FBK/YTU3D/blob/master/images/classes.png"></p>
 
 ## Provided data - please contact us for receiving the point clouds
